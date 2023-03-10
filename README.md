@@ -6,6 +6,7 @@ This repository contains a collection of ebooks for Java and Spring developers. 
 The repository contains the following ebooks:
 Think Java by Allen B. Downey and Chris Mayfield
 Head First Java by Kathy Sierra and Bert Bates
+Spring Boot in Actions by Craig Walls
 
 
 <h2>Usage</h2>
